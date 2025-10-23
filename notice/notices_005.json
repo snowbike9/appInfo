@@ -1,4 +1,11 @@
 {
 	"notices": [
+		{
+			"id": 1,
+			"title": "앱 업데이트 안내",
+			"content": "새로운 버전이 출시되었습니다.",
+			"date": "2025-10-24",
+			"important": true
+		}
 	]
 }
